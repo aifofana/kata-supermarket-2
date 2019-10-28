@@ -1,2 +1,2 @@
-# kata-supermarket-2
-project kata-supermarket - java /springboot 
+# supermarket-kata
+ kata - on java /springboot env. - supermarket purchase output
